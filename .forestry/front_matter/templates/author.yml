@@ -43,7 +43,3 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
-pages:
-- content/authors/emanuele-cantoni/emanuele-cantoni.md
-- content/authors/oscar-civiero/oscar-civiero.md
-- content/authors/roberto-ghislanzoni/roberto-ghislanzoni.md
