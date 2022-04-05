@@ -1,6 +1,7 @@
 ---
-timeToRead: 2
-authors: []
+timeToRead: 1
+authors:
+- Roberto Ghislanzoni
 title: Lake of Olginate
 excerpt: ''
 date: 2016-05-19T00:00:00+02:00
