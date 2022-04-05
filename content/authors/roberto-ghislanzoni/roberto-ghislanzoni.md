@@ -1,7 +1,7 @@
 ---
 title: Roberto Ghislanzoni
 bio: ''
-avatar: ''
+avatar: "/images/1516939767632.jpg"
 social: []
 featured: false
 
