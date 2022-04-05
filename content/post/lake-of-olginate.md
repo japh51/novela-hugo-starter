@@ -5,12 +5,12 @@ authors:
 title: Lake of Olginate
 excerpt: ''
 date: 2016-05-19T00:00:00+02:00
-hero: "/images/25820327604_b6c5dfbbd8_w.jpg"
+hero: "/images/25820327604_b6c5dfbbd8_c.jpg"
 
 ---
-![](/images/25820327604_b6c5dfbbd8_w.jpg)
 
-[https://flic.kr/p/FkDVQ9](https://flic.kr/p/FkDVQ9 "https://flic.kr/p/FkDVQ9")
+
+[![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9 "https://flic.kr/p/FkDVQ9")
 
 > Anche la sentinella,
 >
