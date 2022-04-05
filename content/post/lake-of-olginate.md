@@ -1,5 +1,5 @@
 ---
-timeToRead: 1
+timeToRead: 2
 authors: []
 title: Lake of Olginate
 excerpt: ''
