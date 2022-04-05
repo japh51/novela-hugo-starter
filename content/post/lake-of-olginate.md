@@ -10,11 +10,14 @@ hero: "/images/25820327604_b6c5dfbbd8_c.jpg"
 ---
 [![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9)
 
+
+
+
 _Anche la sentinella,_  
 _che stava sopra il ponte,_  
 _fu trasformata in monte_  
-_e la Grignetta fu.  
-_
+_e la Grignetta fu._
+
 _La leggenda della Grigna, Canto popolare_
 
 Una passeggiata in compagnia di sole, lago e montagna.  
