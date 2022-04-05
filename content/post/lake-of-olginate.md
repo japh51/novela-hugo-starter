@@ -8,10 +8,7 @@ date: 2016-05-19T00:00:00+02:00
 hero: "/images/25820327604_b6c5dfbbd8_c.jpg"
 
 ---
-[![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9)
-
-
-
+[![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9 "Mattina di primavera")
 
 _Anche la sentinella,_  
 _che stava sopra il ponte,_  
