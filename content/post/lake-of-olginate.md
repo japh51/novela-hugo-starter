@@ -8,17 +8,15 @@ date: 2016-05-19T00:00:00+02:00
 hero: "/images/25820327604_b6c5dfbbd8_c.jpg"
 
 ---
+[![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9)
 
+_Anche la sentinella,_
 
-[![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9 "https://flic.kr/p/FkDVQ9")
+_che stava sopra il ponte,_
 
-> Anche la sentinella,
->
-> che stava sopra il ponte,
->
-> fu trasformata in monte
->
-> e la Grignetta fu.
+_fu trasformata in monte_
+
+_e la Grignetta fu._
 
 _La leggenda della Grigna, Canto popolare_
 
