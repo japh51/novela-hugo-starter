@@ -6,4 +6,3 @@ seo:
   image: "/images/logo_v3_479x418.png"
 
 ---
-Foto per passione
