@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/emanuele-cantoni.md
 - content/authors/roberto-ghislanzoni/roberto-ghislanzoni.md
