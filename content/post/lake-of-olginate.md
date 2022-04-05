@@ -11,6 +11,8 @@ draft: true
 ---
 ![](/images/25820327604_b6c5dfbbd8_c.jpg)
 
+[https://flic.kr/p/FkDVQ9](https://flic.kr/p/FkDVQ9 "https://flic.kr/p/FkDVQ9")
+
 > Anche la sentinella,
 >
 > che stava sopra il ponte,
