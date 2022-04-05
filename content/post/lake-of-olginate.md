@@ -9,7 +9,7 @@ hero: "/images/25820327604_b6c5dfbbd8_c.jpg"
 
 ---
 [![](/images/25820327604_b6c5dfbbd8_c.jpg)](https://flic.kr/p/FkDVQ9 "Mattina di primavera")
-\
+  
 _Anche la sentinella,_  
 _che stava sopra il ponte,_  
 _fu trasformata in monte_  
